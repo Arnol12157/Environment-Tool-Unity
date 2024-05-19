@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Environment Tool",
   "description": "A tool to create, edit, delete, and select configuration files for different environments (development, staging, production) using Scriptable Objects.",
-  "unity": "2022.3.9f1",
+  "unity": "2022.3",
   "dependencies": {},
   "keywords": [
     "environment",
