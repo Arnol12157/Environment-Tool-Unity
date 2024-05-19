@@ -1,0 +1,23 @@
+{
+  "name": "com.arnolrt.environment-tool",
+  "version": "1.0.0",
+  "displayName": "Environment Tool",
+  "description": "A tool to create, edit, delete, and select configuration files for different environments (development, staging, production) using Scriptable Objects.",
+  "unity": "2022.3.9f1",
+  "dependencies": {},
+  "keywords": [
+    "environment",
+    "configuration",
+    "manager",
+    "unity"
+  ],
+  "author": {
+    "name": "Arnol Robles",
+    "email": "arnol12157@gmail.com",
+    "url": "https://arnol12157.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arnol12157/TGUtils.EnvironmentTool.git"
+  }
+}
