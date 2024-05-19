@@ -11,7 +11,9 @@ Environment Tool is a tool that allows you to create, edit, delete, and select c
 - **Use of Scriptable Objects**: Utilizes Scriptable Objects to manage configurations, enabling simple and scalable integration into Unity projects.
 
 ## Installation
+1. Download the latest package from [latest](https://github.com/Arnol12157/TGUtils.EnvironmentTool/releases/tag/Latest)
 
+or
 1. Clone this repository to your local machine:
     ```bash
     git clone https://github.com/Arnol12157/TGUtils.EnvironmentTool.git
